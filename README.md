@@ -137,7 +137,7 @@ availability: "Always building something new"
 ### 🚀 **SaaS Development**
 ```javascript
 const saasStack = {
-  frontend: ["Next.js 14", "React", "TypeScript"],
+  frontend: ["Next.js 16", "React", "TypeScript"],
   styling: ["Tailwind CSS", "shadcn/ui"],
   backend: ["Node.js", "Express", "tRPC"],
   database: ["MongoDB", "PostgreSQL"],
